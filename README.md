@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 😄[Blog](https://blog.naver.com/mfireon)<br/>
 <a href="https://github.com/hyeon0520"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord" alt="hyeon0520's github stats" /></a>
-<a href="https://github.com/hyeon0520"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord" /></a>
+<a href="https://github.com/hyeon0520"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord" /></a>
