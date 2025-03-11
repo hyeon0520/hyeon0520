@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 😄[Blog](https://blog.naver.com/mfireon)<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&text_size=150)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&show_icons=true&layout=donut&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&show_icons=true&layout=donut&theme=nord)<br/>
+
+<a href="https://github.com/hyeon0520"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&></a>
