@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [Blog](https://blog.naver.com/mfireon)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=DonutChart&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=Donut&theme=nord)
