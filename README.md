@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!👋
 
 <!--
 **hyeon0520/hyeon0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=radical)
+[Blog](https://blog.naver.com/mfireon)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact)
