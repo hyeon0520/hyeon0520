@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄[Blog](https://blog.naver.com/mfireon)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&card_width='150')
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&show_icons=true&layout=compact&theme=nord)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord)](https://github.com/hyeon0520/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&show_icons=true&layout=compact&theme=nord)](https://github.com/hyeon0520/github-readme-stats)
