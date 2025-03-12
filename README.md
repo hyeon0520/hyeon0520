@@ -1,5 +1,5 @@
 ## Welcome !👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=capsule%20render&fontSize=90&theme=radical)
 - 🔭 I’m currently working on Eco AI in Hanbat University
 - 🌱 I’m currently learning ... AI
 <!-- 👯 I’m looking to collaborate on ...
