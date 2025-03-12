@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 📰 My Blog:[Naver](https://blog.naver.com/mfireon)
+- 📰 My Blog: [Naver](https://blog.naver.com/mfireon)
 - 😄 Pronouns: Hyeon ​(๑╹ڡ╹)
 - 🎼 Favarite song: Drowning - woodz🎵
 - ⚡ Fun fact: I love cat ♡´･ᴗ･`♡<br/>
