@@ -3,10 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hyeon's%20IT%20World&fontSize=90&theme=radical)
 <!--introduce-->
 - 🔭 I’m currently working on Eco AI in Hanbat University
-- 🌱 I’m currently learning ... AI
-- 😄 Pronouns: Hyeon 
+- 🌱 I’m currently learning AI, data analysis
+- 😄 Pronouns: Hyeon '◡'✿
 - 🎼 Favarite song: Drowning - woodz🎵
-- ⚡ Fun fact: I love cat <br/>
+- ⚡ Fun fact: I love cat ​(⸝⸝⍢⸝⸝) ෆ<br/>
 - 📰 My Blog: [Naver](https://blog.naver.com/mfireon)
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
