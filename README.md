@@ -4,12 +4,13 @@
 <!--introduce-->
 - 🔭 I’m currently working on Eco AI in Hanbat University
 - 🌱 I’m currently learning ... AI
+- 😄 Pronouns: Hyeon 
+- 🎼 Favarite song: Drowning - woodz🎵
+- ⚡ Fun fact: I love cat <br/>
+- 📰 My Blog: [Naver](https://blog.naver.com/mfireon)
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
-- 😄 Pronouns: Hyeon 
-- 🎼 Favarite song: Drowning - woodz🎵
-- ⚡ Fun fact: I love cat <br/>
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a><br/>
