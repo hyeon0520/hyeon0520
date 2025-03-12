@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning AI, data analysis
 - 😄 Pronouns: Hyeon '◡'✿
 - ⚡ Fun fact: I love cat ​(⸝⸝⍢⸝⸝) ෆ
-- 🎼 Favarite song: Drowning - woodz🎵
+- 🎼 Favorite song: Drowning - woodz🎵
 - 📰 My Blog: [Naver](https://blog.naver.com/mfireon)
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
