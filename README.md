@@ -1,6 +1,6 @@
 ## Welcome !<!--👋-->
 <!--title 75BDE0-->
-![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Hyeon's%20IT%20Space&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=radical&color=auto&height=250&section=header&text=Hyeon's%20IT%20Space&fontSize=70&animation=fadeIn)
 <!--introduce-->
 - 🔭 I’m currently working on Eco AI in Hanbat University
 - 🌱 I’m currently learning AI, data analysis
