@@ -7,7 +7,9 @@
 - 😄 Pronouns: Hyeon '◡'✿
 - ⚡ Fun fact: I love cat ​(⸝⸝⍢⸝⸝) ෆ
 - 🎼 Favorite song: Drowning - woodz🎵
-- 📰 My Blog: <img src="https://img.shields.io/badge/naver-20232a.svg?style=for-the-badge&logo=naver&logoColor=61DAFB" height="25" />[Naver](https://blog.naver.com/mfireon)
+- 📰 My Blog: <a href="https://naver.com">
+  <img src="https://img.shields.io/badge/naver-20232a.svg?style=for-the-badge&logo=naver&logoColor=61DAFB" height="30"/>
+</a>
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
