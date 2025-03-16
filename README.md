@@ -76,7 +76,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png?raw=true" alt="It's me" width="550" height="400"/>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png?raw=true" alt="It's me" />
 </div>
 <div align="center" >
   2025 한국통신학회
