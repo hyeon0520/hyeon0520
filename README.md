@@ -2,7 +2,7 @@
 <!--title 75BDE0-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Hyeon's%20IT%20Space&fontSize=70&animation=fadeIn)
 <!--introduce-->
-- 🔭 I’m currently working on Eco AI in Hanbat University, Site: [Eco AI](https://sites.google.com/view/ecoai)
+- 🔭 I’m currently working on EcoAI in Hanbat University, Site: [EcoAI Lab](https://sites.google.com/view/ecoai)
 - 🌱 I’m currently learning AI, Data Analysis
 - 😄 Pronouns: Hyeon '◡'✿
 - ⚡ Fun fact: I love cat ​(⸝⸝⍢⸝⸝) ෆ
