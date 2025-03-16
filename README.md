@@ -59,13 +59,15 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://blog.naver.com/mfireon">
-    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
   <a href="https://sites.google.com/view/ecoai/introduction">
     <img
-      src="https://img.shields.io/badge/EcoAI-D14836?style=for-the-badge&logo=EcoAI&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/EcoAI-D14836?style=for-the-badge&logo=EcoAI&logoColor=white"/>
   </a>
 </div>
+
+<br/>
 
 <!--git stack-->
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
