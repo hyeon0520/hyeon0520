@@ -69,6 +69,6 @@
     <img src="https://img.shields.io/badge/EcoAI-4d77cf?style=for-the-badge&logo=EcoAI&logoColor=white" />&nbsp
   </a>
   <a href="mailto:mfireon0520@gmail.com">
-    <img src="https://img.shields.io/badge/mfireon0520@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
