@@ -72,3 +72,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+![It's me](2025.02.05~02.07 한국통신학회(동계)/학회 개인컷(권우현).png)
