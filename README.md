@@ -68,6 +68,7 @@
   <a href="https://sites.google.com/view/ecoai/introduction">
     <img src="https://img.shields.io/badge/EcoAI-D14836?style=for-the-badge&logo=EcoAI&logoColor=white" />&nbsp
   </a>
+  <a href="mailto:mfireon0520@gmail.com">
+    <img src="https://img.shields.io/badge/mfireon0520@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
-
-<br/>
