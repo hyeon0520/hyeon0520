@@ -63,12 +63,12 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://blog.naver.com/mfireon">
-    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />&nbsp;
   </a>
   <a href="https://sites.google.com/view/ecoai/introduction">
-    <img src="https://img.shields.io/badge/EcoAI-4d77cf?style=for-the-badge&logo=EcoAI&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/EcoAI-4d77cf?style=for-the-badge&logo=EcoAI&logoColor=white" />&nbsp;
   </a>
   <a href="mailto:mfireon0520@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
   </a>
 </div>
