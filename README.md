@@ -16,7 +16,7 @@
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a><br/>
 </div>
-***
+
 <!--Tech stack-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -43,7 +43,7 @@
 </div>
 
 <br/>
----
+
 <!--Toools-->
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
