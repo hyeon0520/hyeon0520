@@ -75,8 +75,6 @@
   </a>
 </div>
 
-<br/>
-
 Photo <br/>
 ---
 <div align="center">
