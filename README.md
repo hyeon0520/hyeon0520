@@ -16,7 +16,7 @@
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a><br/>
 </div>
----
+***
 <!--Tech stack-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
----
+
 <br/>
----
+
 <!--studying-->
 <h3 align="center">✏️ Studying ✏️</h3>
 <div align="center">
