@@ -82,7 +82,3 @@
 <div align="center" >
   2025 한국통신학회
 </div>
-
-<br/>
-***
-<br/> 안녕
