@@ -18,7 +18,7 @@ Introduce myself <br/>
 Curriculum Vitae <br/>
 ---
 | Date | Spot | Details | Where |
-|-------|-------|-------|
+|-------|-------|-------|-------|
 | 2017.02~2019.02 | 교내 방송부 부부장 | 방송부 내의 부부장으로 방송 장비 관리 및 행상 주최 | Yangmok-High School |
 | 2018.02~2018.08 | 기숙사 층장 | 기숙사 내의 층장으로서 기숙사 생도 관리 및 지시 전달 | Yangmok-High School |
 | 2018.02~2019.02 | 총무부장 | 학생 임원으로 학생회 회의 기록 및 학생 예산안 작성, 관리 | Yangmok-High School |
