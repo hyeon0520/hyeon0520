@@ -17,8 +17,6 @@ Introduce myself <br/>
 - 📫 How to reach me: ... 
 -->
 
-<br/>
-
 Tech Stack <br/>
 ---
 </div>
