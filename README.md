@@ -72,8 +72,6 @@ Tech Stack <br/>
   </a>
 </div>
 
-<br/>
-
 Git Stack <br/>
 ---
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
