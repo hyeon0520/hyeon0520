@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/DeepLearning.AI-0055A5?style=for-the-badge&logo=deeplearning-dot-ai&logoColor=white" />&nbsp
 </div>
 
 <br/>
