@@ -18,8 +18,7 @@
 <br/> Tech Stack <br/>
 ---
 </div>
-<!--Tech stack-->
-<h1> Tech Stack </h1>
+<h4> Tech Stack </h4>
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
