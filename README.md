@@ -29,7 +29,6 @@ Curriculum Vitae <br/>
 | 2025.06.30~2025.07.11 | (주)Zento 인턴 | HuggingFace AI를 이용한 이미지 및 비디오를 생성하여 클라이언트에게 서비스를 제공하는 프로젝트 진행 | (주)Zento |
 | 2025.08.10~2025.08.15 | IRO 로봇올림피아드 본선 진행요원 | IRO에서 주최한 로봇올림피아드 본선에서 진행요원을 맡아, 참가자 인솔 및 통제를 담당 | Exco in Daegu |
 
-
 Tech Stack <br/>
 ---
 </div>
@@ -91,7 +90,7 @@ Git Stack <br/>
 ---
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=hyeon0520)](https://github.com/ryo-ma/github-profile-trophy)
 
 Photo by Activity <br/>
 ---
