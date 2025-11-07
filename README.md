@@ -1,8 +1,6 @@
 ## Welcome<!--👋-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Hyeon's%20IT%20Space&fontSize=70&animation=fadeIn)
 
-<br/>
-
 Introduce myself <br/>
 ---
 - I’m currently working on EcoAI in Hanbat University, Site: [EcoAI Lab](https://sites.google.com/view/ecoai)
@@ -16,6 +14,10 @@ Introduce myself <br/>
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 -->
+
+Curriculum Vitae <br/>
+---
+
 
 Tech Stack <br/>
 ---
