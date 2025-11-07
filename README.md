@@ -1,5 +1,4 @@
 ## Welcome<!--👋-->
-<!--title 75BDE0-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Hyeon's%20IT%20Space&fontSize=70&animation=fadeIn)
 - 🔭 I’m currently working on EcoAI in Hanbat University, Site: [EcoAI Lab](https://sites.google.com/view/ecoai)
 - 🌱 I’m currently learning AI, Data Analysis
@@ -12,9 +11,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 -->
-<!--git stack-->
-<a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
-<a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a><br/>
+
+<br/>
 
 Tech Stack <br/>
 ---
@@ -26,7 +24,6 @@ Tech Stack <br/>
 
 <br/>
 
-<!--studying-->
 <h4> Skills </h4>
 <div>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
@@ -59,7 +56,6 @@ Tech Stack <br/>
 
 <br/>
 
-<!--Contact-->
 <h4> Contact <h4>
 <div>
   <a href="https://blog.naver.com/mfireon">
@@ -72,6 +68,14 @@ Tech Stack <br/>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<br/>
+
+Git Stack <br/>
+---
+<a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
+<a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a>
+
 
 Photo <br/>
 ---
