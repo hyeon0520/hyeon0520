@@ -22,7 +22,7 @@ Curriculum Vitae <br/>
 | 2017.02~2019.02 | 교내 방송부 부부장 | 방송부 내의 부부장으로 방송 장비 관리 및 행상 주최 | Yangmok-High School |
 | 2018.02~2018.08 | 기숙사 층장 | 기숙사 내의 층장으로서 기숙사 생도 관리 및 지시 전달 | Yangmok-High School |
 | 2018.02~2019.02 | 총무부장 | 학생 임원으로 학생회 회의 기록 및 학생 예산안 작성, 관리 | Yangmok-High School |
-| 2021.03.06~2021.07.20 | 해군 청해부대 34진 갑판병 | 해군병 668기, 청해부대 34진으로 소말리아 및 이란 파병 견시 및 함정 조종간 조종 | ROKS Munmu the Great(DDH-976) |
+| 2021.03.06~2021.07.20 | 해군 청해부대 34진 갑판병 | 해군병 668기, 청해부대 34진으로 소말리아 및 이란 파병, 견시 및 함정 조종간 조종 | ROKS Munmu the Great(DDH-976) |
 | 2024.12.04~ | 국립한밭대학교 EcoAI 학부연구생 | Green Button Project, 세신로봇, 통신학회 2번, 전자공학회 1번, Energies(SCIE급)논문 게재 | EcoAI Lab in Hanbat National University |
 | 2025.01.16~2025.01.21 | IROC 국제로봇올림피아드 본선 진행요원 | IRO에서 주최한 세계대회에서 진행요원을 맡아, 참가자들 인솔 및 통제를 담당 | Bexco in Busan |
 | 2025.03.11~ | 국립한밭대학교 방송국(HNUBS) 기획부장 | 교내 행사 기획 및 교내 방송 대본 작성 | HNUBS in Hanbat National University |
