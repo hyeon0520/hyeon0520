@@ -89,9 +89,7 @@ Tech Stack <br/>
 Git Stack <br/>
 ---
 <!-- <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a> -->
-[<img width="350"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true&langs_count=6&v=1">](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true&v=2
-)
+<!-- <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a> -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hyeon0520)](https://github.com/ryo-ma/github-profile-trophy)
 
 Photo by Activities <br/>
