@@ -101,6 +101,7 @@ Photo by Activities <br/>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%8B%A8%EC%B2%B4%EC%BB%B7.jpg?raw=true" width="250" />
   <img src=https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" width="250" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(Student%20Abstract)%20in%20Singapore/AAAI%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" width="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(Student%20Abstract)%20in%20Singapore/AAAI%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" width="250" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png?raw=true" width="250" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Energies%20%EB%B3%B4%EB%8F%84.png?raw=true" width="250" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/ABC%20%EA%B0%9C%EC%9D%B8.png?raw=true" width="250" />
