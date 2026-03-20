@@ -5,9 +5,8 @@ Introduce myself <br/>
 ---
 - I’m currently working on EcoAI in Hanbat University, Site: [EcoAI Lab](https://sites.google.com/view/ecoai)
 - I’m currently learning AI, Data Analysis
-- Pronouns: Hyeon '◡'✿
-- Fun fact: I love cat ​(⸝⸝⍢⸝⸝) ෆ
-- Favorite song: Drowning - woodz🎵
+- Pronouns: Survivor Guy '◡'✿
+- Fun fact: My age: 27 ​(⸝⸝⍢⸝⸝) ෆ
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
