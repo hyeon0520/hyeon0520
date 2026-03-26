@@ -9,11 +9,11 @@ Introduce <br/>
 
 Issue <br/>
 ---
-- <div>
+<div>
   <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
-
+(https://img.shields.io/badge/🚀_Blog-Click_Here-0A66C2?style=for-the-badge)](https://your-blog.com)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
