@@ -107,7 +107,6 @@ Git Stack <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeon0520&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyeon0520&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyeon0520&theme=default)
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=hyeon0520)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 Photo by Activities <br/>
 ---
