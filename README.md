@@ -10,16 +10,16 @@ Introduce <br/>
 Issue <br/>
 ---
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-    <img src="https://img.shields.io/badge/EcoAI_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EcoAI_보도-191919?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 - <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-    <img src="https://img.shields.io/badge/이슈메이커_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/이슈메이커_보도-191919?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 - <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-    <img src="https://img.shields.io/badge/시사매거진_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/시사매거진_보도-191919?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
-    <img src="https://img.shields.io/badge/로컬투데이_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/로컬투데이_보도-191919?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 <!--
 - 👯 I’m looking to collaborate on ...
