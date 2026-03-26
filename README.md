@@ -1,12 +1,17 @@
 ## Welcome<!--👋-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Hyeon's%20IT%20Space&fontSize=70&animation=fadeIn)
 
-Introduce myself <br/>
+Introduce <br/>
 ---
-- I’m currently working on EcoAI in Hanbat University, Site: [EcoAI Lab](https://sites.google.com/view/ecoai)
+- I’m currently undergraduate in Hanbat University
 - I’m currently learning AI, Data Analysis
-- Pronouns: Survivor Guy '◡'✿
-- Fun fact: My age: 27 ​(⸝⸝⍢⸝⸝) ෆ
+- Pronouns: Survivor Guy
+- Issue:
+- <div>
+  <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
+    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
