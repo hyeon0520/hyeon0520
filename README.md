@@ -10,16 +10,16 @@ Introduce <br/>
 Issue <br/>
 ---
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-    <img src="https://img.shields.io/badge/EcoAI_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EcoAI_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 - <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-    <img src="https://img.shields.io/badge/이슈메이커_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/이슈메이커_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 - <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-    <img src="https://img.shields.io/badge/시사매거진_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/시사매거진_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
-    <img src="https://img.shields.io/badge/로컬투데이_보도-191970?style=flat-square&logo=readme&logoColor=white"/>
+    <img src="https://img.shields.io/badge/로컬투데이_보도-191971?style=flat-square&logo=readme&logoColor=white"/>
   </a>
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -100,10 +100,6 @@ Git Stack <br/>
 ---
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord&hide_border=true" alt="Hyeon's github stats" /></a>
 <a href="https://github.com/hyeon0520"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0520&layout=compact&theme=nord&hide_border=true" /></a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeon0520&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeon0520&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyeon0520&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyeon0520&theme=default)
 
 Photo by Activities <br/>
 ---
