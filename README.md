@@ -9,12 +9,8 @@ Introduce <br/>
 
 Issue <br/>
 ---
-<div>
-  <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
-  </a>
 <p align="center">
-  <a href="https://your-blog.com">
+  <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
     <img src="https://img.shields.io/badge/Blog-Visit-blue?style=for-the-badge">
   </a>
   <a href="https://github.com/your-repo">
