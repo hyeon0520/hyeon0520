@@ -6,7 +6,9 @@ Introduce <br/>
 - I’m currently undergraduate in Hanbat University
 - I’m currently learning AI, Data Analysis
 - Pronouns: Survivor Guy
-- Issue:
+
+Issue <br/>
+---
 - <div>
   <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
