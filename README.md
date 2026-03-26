@@ -3,9 +3,11 @@
 
 Introduce <br/>
 ---
+- My name: Woohyeon Kwon
+- My age: 27
+- Pronouns: Survivor Guy
 - I’m currently undergraduate in Hanbat University
 - I’m currently learning AI, Data Analysis
-- Pronouns: Survivor Guy
 
 Issue <br/>
 ---
