@@ -11,7 +11,7 @@ Issue <br/>
 ---
 <p align="center">
   <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-    <img src="https://img.shields.io/badge/Blog-Visit-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/EcoAI-뉴스-blue?style=for-the-badge">
   </a>
   <a href="https://github.com/your-repo">
     <img src="https://img.shields.io/badge/Project-View-green?style=for-the-badge">
