@@ -13,9 +13,17 @@ Issue <br/>
   <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
-[![Blog](https://img.shields.io/badge/Blog-Visit-blue?style=for-the-badge&logo=github)](https://your-blog.com)
-[![Project](https://img.shields.io/badge/Project-View-green?style=for-the-badge&logo=github)](https://github.com/your-repo)
-[![Download](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge&logo=download)](https://your-download-link.com)
+<p align="center">
+  <a href="https://your-blog.com">
+    <img src="https://img.shields.io/badge/Blog-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="https://github.com/your-repo">
+    <img src="https://img.shields.io/badge/Project-View-green?style=for-the-badge">
+  </a>
+  <a href="https://your-site.com">
+    <img src="https://img.shields.io/badge/Website-Go-orange?style=for-the-badge">
+  </a>
+</p>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
