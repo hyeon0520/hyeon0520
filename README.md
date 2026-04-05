@@ -23,6 +23,9 @@ Issue <br/>
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
     <img src="https://img.shields.io/badge/로컬투데이_News-191970?style=flat-square&logo=readme&logoColor=white"/>
   </a>
+- <a href="https://www.newsband.kr/news/articleView.html?idxno=544690">
+    <img src="https://img.shields.io/badge/뉴스밴드_News-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
