@@ -1,9 +1,7 @@
 # Ninnim<!--👋-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Ninnim's%20IT&fontSize=70&animation=fadeIn)
 
-Introduce <br/>
----
-## 👤 About Me
+### 👤 About Me
 
 ```yaml
 name: Woohyeon Kwon
