@@ -101,7 +101,7 @@ Curriculum Vitae <br>
 Git Stack <br/>
 ---
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyeon0520&show_icons=true&theme=gruvbox" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyeon0520&show_icons=true&theme=Solarized" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hyeon0520&layout=donut&show_icons=true&theme=nord&hide=scss,css,html" height="180" />
 </div>
 
