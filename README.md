@@ -4,13 +4,26 @@
 Introduce <br/>
 ---
 <div align="center">
-  <div style="border:1px solid #ccc; border-radius:12px; padding:20px; width:400px;">
-    <h2>👤 Woohyeon Kwon</h2>
-    <p><b>🎂 Age:</b> 27</p>
-    <p><b>🧑 Pronouns:</b> Survivor Guy</p>
-    <p><b>🎓 University:</b> Hanbat University (Undergraduate)</p>
-    <p><b>📚 Learning:</b> AI · Data Analysis</p>
-  </div>
+  <h2>👤 Woohyeon Kwon</h2>
+  
+  <table>
+    <tr>
+      <td><b>🎂 Age</b></td>
+      <td>27</td>
+    </tr>
+    <tr>
+      <td><b>🧑 Pronouns</b></td>
+      <td>Survivor Guy</td>
+    </tr>
+    <tr>
+      <td><b>🎓 University</b></td>
+      <td>Hanbat University (Undergraduate)</td>
+    </tr>
+    <tr>
+      <td><b>📚 Field</b></td>
+      <td>AI · Data Analysis</td>
+    </tr>
+  </table>
 </div>
 
 Tech Stack <br/>
