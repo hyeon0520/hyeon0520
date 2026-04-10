@@ -14,8 +14,6 @@
                 <a href="https://blog.naver.com/mfireon">
                     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=flat-square&logo=naver&logoColor=white" />
                 </a>
-            </div>
-            <div>
                 <a href="mailto:mfireon0520@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
                 </a> <br>
