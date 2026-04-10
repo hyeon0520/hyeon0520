@@ -11,8 +11,12 @@
             <b>📂 Portfolios: </b>&nbsp; <a href=""> </a> <br>
         </td>
         <td>
-            <ul>
-                <li></li>
+            <div> "I have conducted research on data analysis, large language models (LLMs), and anomaly detection at the EcoAI Lab, Department of Computer Engineering, 
+                Hanbat National University." </div> <br>
+            <div> "My goal is to become a data scientist who contributes to power consumption analysis, sustainable industrial development, and improving object detection 
+                performance." </div> <br>
+            <div> "Please feel free to follow my journey and stay tuned for my future work." </div>
+</ul>
             </ul>
         </td>
     </table>
