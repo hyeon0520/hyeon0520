@@ -10,6 +10,7 @@
           <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
           <li>3rd-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
         </ul>
+  <table/>
 <div align="center">
   <div style="border-radius:15px; padding:20px; width:420px; border:1px solid #e1e4e8;">
     <p>🧑 Woohyeon Kwon | Ninnim</p>
