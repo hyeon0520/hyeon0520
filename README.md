@@ -2,20 +2,23 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Ninnim's%20IT&fontSize=70&animation=fadeIn)
 
 ### 👤About Me
-<table>
-  <tr>
-    <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
-      
-**🧑 Woohyeon Kwon | Ninnim**  
-🎓 Undergraduate @ Hanbat University  
-📊 Learning AI & Data Analysis  
 
----
-
-*"Building skills to survive in the AI era."*
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
+        
+  **🧑 Woohyeon Kwon | Ninnim**  
+  🎓 Undergraduate @ Hanbat University  
+  📊 Learning AI & Data Analysis  
+  
+  ---
+  
+  *"Building skills to survive in the AI era."*
+      </td>
+    </tr>
+  </table>
+</div>
 <!--
   <table border="0" width="100%">
     <tr>
