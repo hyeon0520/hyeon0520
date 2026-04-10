@@ -10,7 +10,7 @@
           🧑 Woohyeon Kwon | Ninnim <br>
           🎓 Undergraduate in Hanbat University <br>
           📊 Learning AI & Data Analysis <br>
-          <b>📂 My portfolios: </b>&nbsp; <a href=""> </a>
+          <b>📂 My portfolios: </b>&nbsp; <a href=""> </a> <br>
           *"Building skills to survive in the AI era."*
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
@@ -33,6 +33,7 @@
   ---
   
   *"Building skills to survive in the AI era."*
+   *"Building skills to survive in the AI era."*
       </td>
     </tr>
   </table>
