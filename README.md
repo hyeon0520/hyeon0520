@@ -8,8 +8,8 @@
     <tr>
       <td width="70%" style="vertical-align: middle;">
           🧑 Woohyeon Kwon | Ninnim
-          <li>🎓 Undergraduate @ Hanbat University</li>
-          <li>📊 Learning AI & Data Analysis</li>
+          🎓 Undergraduate @ Hanbat University
+          📊 Learning AI & Data Analysis
         <b>📂 You can check out my portfolios: </b></a>
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
