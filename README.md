@@ -21,18 +21,18 @@
       </td>
     </tr>
   </table>
+    <table>
+      <tr>
+          <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
+              🧑 Woohyeon Kwon | Ninnim <br>
+              🎓 Undergraduate @ Hanbat University <br>
+              📊 Learning AI & Data Analysis <br>
+              ---
+              *"Building skills to survive in the AI era."*
+          </td>
+      </tr>
+    </table>
 </div>
-<table>
-  <tr>
-      <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
-          🧑 Woohyeon Kwon | Ninnim <br>
-          🎓 Undergraduate @ Hanbat University <br>
-          📊 Learning AI & Data Analysis <br>
-          ---
-          *"Building skills to survive in the AI era."*
-      </td>
-  </tr>
-</table>
 
 ### Tech Stack
 <h4> Language </h4>
