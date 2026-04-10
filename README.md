@@ -7,9 +7,9 @@
     <table border="0" width="100%">
     <tr>
       <td width="70%" style="vertical-align: middle;">
-          🧑 Woohyeon Kwon | Ninnim </br>
-          🎓 Undergraduate @ Hanbat University
-          📊 Learning AI & Data Analysis
+          🧑 Woohyeon Kwon | Ninnim <br>
+          🎓 Undergraduate @ Hanbat University <br>
+          📊 Learning AI & Data Analysis <br>
         <b>📂 You can check out my portfolios: </b></a>
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
