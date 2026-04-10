@@ -55,7 +55,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-squarelogo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </div>
-<br>
+
 <h4> Skills </h4>
 <div>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />
@@ -71,19 +71,17 @@ Tech Stack
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 </div>
 
-<br>
-
 <h4> Tools </h4>
 <div>
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3" />
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />
-  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
+  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=flat-square&logo=visualstudiocode&logoColor=22ABF3" />
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726" />
+  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=flat-square&logo=googlecolab&logoColor=F9AB00" />
 </div>
 
 <br>
@@ -91,10 +89,10 @@ Tech Stack
 <h4> Contact <h4>
 <div>
   <a href="https://blog.naver.com/mfireon">
-    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
+    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=flat-square&logo=naver&logoColor=white" />
   </a>
   <a href="mailto:mfireon0520@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
