@@ -4,6 +4,7 @@
 ### 👤About Me
 <div align="center">
   <div style="border-radius:15px; padding:20px; width:420px; border:1px solid #e1e4e8;">
+    <p>🚀 Woohyeon Kwon</p>
     <p>🎓 Undergraduate @ Hanbat University</p>
     <p>📊 Learning AI & Data Analysis</p>
     <p>🧑 Survivor Guy | 27</p>
