@@ -5,7 +5,7 @@
 <div align="center">
     <table border="0" width="100%">
         <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
-            🧑 Woohyeon Kwon | 27 | Ninnim <br>
+            🧑 woohyeon Kwon | 27 | Ninnim <br>
             🎓 Undergraduate in Hanbat National University <br>
             📊 Learning AI & Data Analysis <br>
             <b>📂 Portfolios: </b>&nbsp; <a href=""> </a> <br>
