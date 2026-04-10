@@ -13,7 +13,6 @@
 ---
 
 *"Building skills to survive in the AI era."*
-
     </td>
   </tr>
 </table>
