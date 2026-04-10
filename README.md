@@ -47,6 +47,13 @@
     </table>
 </div>
 
+Github Stack <br>
+---
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hyeon0520&layout=donut&show_icons=true&theme=nord&hide=scss,css,html" height="180" />
+</div>
+
 Tech Stack
 ---
 <h4> Language </h4>
@@ -97,13 +104,6 @@ Curriculum Vitae <br>
 | 2025.03.11~2026.03.04 | 국립한밭대학교 방송국(HNUBS) 기획부장 | 교내 행사 기획 및 교내 방송 대본 작성 | HNUBS in Hanbat National University |
 | 2025.06.30~2025.07.11 | (주)Zento 인턴 | HuggingFace AI를 이용한 이미지 및 비디오를 생성하여 클라이언트에게 서비스를 제공하는 프로젝트 진행 | (주)Zento |
 | 2025.08.10~2025.08.15 | IRO 로봇올림피아드 본선 진행요원 | IRO에서 주최한 로봇올림피아드 본선에서 진행요원을 맡아, 참가자 인솔 및 통제를 담당 | Exco in Daegu |
-
-Github Stack <br/>
----
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hyeon0520&show_icons=true&theme=nord" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hyeon0520&layout=donut&show_icons=true&theme=nord&hide=scss,css,html" height="180" />
-</div>
 
 Photo by Activities <br/>
 ---
