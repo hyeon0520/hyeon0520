@@ -3,13 +3,14 @@
 
 ### 👤About Me
 <div>
----
+```
 ┌────────────────────────────────┐
 │ 🎓 University : Hanbat Univ   │
 │ 📊 Field : AI / Data          │
 │ 🧑 Pronouns : Survivor Guy    │
 │ 🎂 Age : 27                   │
 └────────────────────────────────┘
+```
 </div>
 
 ### Tech Stack
