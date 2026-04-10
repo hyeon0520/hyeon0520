@@ -6,9 +6,15 @@
     <tr>
       <td width="70%" style="vertical-align: middle;">
         <ul>
-          <li>🧑 Woohyeon Kwon | Ninnim <b>Eco AI Lab</b>.</li>
-          <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
-          <li>3rd-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
+          <div align="center">
+            <div style="border-radius:15px; padding:20px; width:420px; border:1px solid #e1e4e8;">
+              <p>🧑 Woohyeon Kwon | Ninnim</p>
+              <p>🎓 Undergraduate @ Hanbat University</p>
+              <p>📊 Learning AI & Data Analysis</p>
+              <hr/>
+              <i>"Building skills to survive in the AI era."</i>
+            </div>
+          </div>
         </ul>
       </td>
     </tr>
