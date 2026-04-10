@@ -12,7 +12,7 @@
             📧 Contact 📧 <br>
             <a href="https://blog.naver.com/mfireon">
                 <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
-            </a>
+            </a> <br>
             <a href="mailto:mfireon0520@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
             </a> <br>
