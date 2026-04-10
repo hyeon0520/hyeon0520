@@ -2,6 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Ninnim's%20IT&fontSize=70&animation=fadeIn)
 
 ### 👤About Me
+  <table border="0" width="100%">
+    <tr>
+      <td width="70%" style="vertical-align: middle;">
+        <ul>
+          <li>🧑 Woohyeon Kwon | Ninnim <b>Eco AI Lab</b>.</li>
+          <li>I aim to become a <b>Data Scientist</b> an AI-powered problem solver applying research to real-world challenges.</li>
+          <li>3rd-year Computer Engineering Student, <b>Hanbat National University (HBNU)</b>.</li>
+        </ul>
 <div align="center">
   <div style="border-radius:15px; padding:20px; width:420px; border:1px solid #e1e4e8;">
     <p>🧑 Woohyeon Kwon | Ninnim</p>
