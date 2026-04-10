@@ -4,16 +4,12 @@
 Introduce <br/>
 ---
 <div align="center">
-  <div style="border-radius:15px; padding:20px; width:420px; border:1px solid #e1e4e8;">
-    <h2>🚀 Woohyeon Kwon</h2>
-    
-    <p>🎓 Undergraduate @ Hanbat University</p>
-    <p>📊 Learning AI & Data Analysis</p>
-    <p>🧑 Survivor Guy | 27</p>
-    
-    <hr/>
-    
-    <i>"Building skills to survive in the AI era."</i>
+  <div style="border:1px solid #ccc; border-radius:12px; padding:20px; width:400px;">
+    <h2>👤 Woohyeon Kwon</h2>
+    <p><b>🎂 Age:</b> 27</p>
+    <p><b>🧑 Pronouns:</b> Survivor Guy</p>
+    <p><b>🎓 University:</b> Hanbat University (Undergraduate)</p>
+    <p><b>📚 Learning:</b> AI · Data Analysis</p>
   </div>
 </div>
 
