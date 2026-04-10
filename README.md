@@ -8,7 +8,8 @@
             👨‍💼 Woohyeon Kwon | 27 | Ninnim <br>
             🎓 Undergraduate in Hanbat University <br>
             💻 Learning AI(LLM, ML) & Data Analysis <br>
-            ┌📧 Contact┐ <br>
+            ━━━━━━━━━━━━━━━━━━━━━
+            ┏📧 Contact 📧┓ <br>
             <a href="https://blog.naver.com/mfireon">
                 <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
             </a>
