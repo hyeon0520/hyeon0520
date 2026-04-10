@@ -4,25 +4,6 @@
 ---
 <div align="center">
     <table border="0" width="100%">
-    <tr>
-      <td width="70%" style="vertical-align: middle;">
-          <ul>
-              <li>I</li>
-          🧑 Woohyeon Kwon | 27 | Ninnim <br>
-          🎓 Undergraduate in Hanbat National University <br>
-          📊 Learning AI & Data Analysis <br>
-          <b>📂 My portfolios: </b>&nbsp; <a href=""> </a> <br>
-      </td>
-      <td width="30%" align="center" style="vertical-align: middle;">
-        <a href="https://sites.google.com/view/ecoai/introduction">
-          <img src="https://github.com/user-attachments/assets/98519fd4-3bb6-4e5a-a831-2561cbfc41d3" width="260" alt="EcoAI Lab Logo" />
-        </a>
-        <br>
-        <a href="https://sites.google.com/view/ecoai/introduction"><b>[Link]</b></a>
-      </td>
-    </tr>
-  </table>
-    <table>
       <tr>
           <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
               🧑 Woohyeon Kwon | 27 | Ninnim <br>
