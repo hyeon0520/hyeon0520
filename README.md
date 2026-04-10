@@ -11,7 +11,7 @@
           🎓 Undergraduate in Hanbat University <br>
           📊 Learning AI & Data Analysis <br>
           ---
-          <b>📂 You can check out my portfolios: </b>
+          <b>📂 My portfolios: </b>&nbsp; <a href="">
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
         <a href="https://sites.google.com/view/ecoai/introduction">
