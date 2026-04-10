@@ -63,7 +63,7 @@
   </a>
 </div>
 
-Issue <br/>
+### Issue
 ---
 - <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
     <img src="https://img.shields.io/badge/EcoAI_News-191970?style=flat-square&logo=readme&logoColor=white"/>
