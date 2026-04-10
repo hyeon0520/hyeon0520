@@ -3,8 +3,9 @@
 
 ### 👤About Me
 
+<h3> 👤About Me </h3>
+---
 <div align="center">
-    <h3> 👤About Me </h3>
     <table border="0" width="100%">
     <tr>
       <td width="70%" style="vertical-align: middle;">
