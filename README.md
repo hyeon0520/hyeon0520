@@ -8,8 +8,8 @@
       <td width="70%" style="vertical-align: middle;">
           <ul>
               <li>I</li>
-          🧑 Woohyeon Kwon | Ninnim <br>
-          🎓 Undergraduate in Hanbat University <br>
+          🧑 Woohyeon Kwon | 27 | Ninnim <br>
+          🎓 Undergraduate in Hanbat National University <br>
           📊 Learning AI & Data Analysis <br>
           <b>📂 My portfolios: </b>&nbsp; <a href=""> </a> <br>
       </td>
@@ -25,8 +25,8 @@
     <table>
       <tr>
           <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
-              🧑 Woohyeon Kwon | Ninnim <br>
-              🎓 Undergraduate @ Hanbat University <br>
+              🧑 Woohyeon Kwon | 27 | Ninnim <br>
+              🎓 Undergraduate in Hanbat National University <br>
               📊 Learning AI & Data Analysis <br>
               <b>📂 Portfolios: </b>&nbsp; <a href=""> </a> <br>
           </td>
