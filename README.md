@@ -10,14 +10,15 @@
             💻 Learning AI(LLM, ML) & Data Analysis <br>
             ━━━━━━━━━━━━━━━━━━━━
             📧 Contact 📧 <br>
-            <div>
+                <a href="mailto:mfireon0520@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+                </a> <br>
                 <a href="https://blog.naver.com/mfireon">
                     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=flat-square&logo=naver&logoColor=white" />
                 </a>
                 <a href="mailto:mfireon0520@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
                 </a> <br>
-            </div>
             📰 Issue 📰 <br>
             <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
                 <img src="https://img.shields.io/badge/EcoAI_News-191970?style=flat-square&logo=readme&logoColor=white"/>
