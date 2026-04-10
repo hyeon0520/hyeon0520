@@ -11,7 +11,17 @@
           🎓 Undergraduate in Hanbat University <br>
           📊 Learning AI & Data Analysis <br>
           <b>📂 My portfolios: </b>&nbsp; <a href=""> </a> <br>
-          *"Building skills to survive in the AI era."*
+          <table>
+              <tr>
+                  <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
+                      **🧑 Woohyeon Kwon | Ninnim**  
+                      🎓 Undergraduate @ Hanbat University  
+                      📊 Learning AI & Data Analysis  
+                      ---
+                      *"Building skills to survive in the AI era."*
+                  </td>
+              </tr>
+          </table>
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
         <a href="https://sites.google.com/view/ecoai/introduction">
@@ -22,41 +32,7 @@
       </td>
     </tr>
   </table>
-  <table>
-    <tr>
-      <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
-        
-  **🧑 Woohyeon Kwon | Ninnim**  
-  🎓 Undergraduate @ Hanbat University  
-  📊 Learning AI & Data Analysis  
-  
-  ---
-  
-  *"Building skills to survive in the AI era."*
-   *"Building skills to survive in the AI era."*
-      </td>
-    </tr>
-  </table>
 </div>
-<!--
-  <table border="0" width="100%">
-    <tr>
-      <td width="70%" style="vertical-align: middle;">
-        <ul>
-          <div align="center">
-            <div style="border-radius:15px; padding:20px; width:420px; border:1px solid #e1e4e8;">
-              <p>🧑 Woohyeon Kwon | Ninnim</p>
-              <p>🎓 Undergraduate @ Hanbat University</p>
-              <p>📊 Learning AI & Data Analysis</p>
-              <hr/>
-              <i>"Building skills to survive in the AI era."</i>
-            </div>
-          </div>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  -->
 
 ### Tech Stack
 <h4> Language </h4>
