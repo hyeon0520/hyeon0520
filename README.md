@@ -9,9 +9,7 @@ Introduce <br/>
     <p>🎓 Undergraduate @ Hanbat University</p>
     <p>📊 Learning AI & Data Analysis</p>
     <p>🧑 Survivor Guy | 27</p>
-    
-    <hr/>
-    
+    <hr/>    
     <i>"Building skills to survive in the AI era."</i>
   </div>
 </div>
