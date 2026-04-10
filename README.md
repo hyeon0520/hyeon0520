@@ -5,10 +5,10 @@
 <div align="center">
     <table border="0" width="100%">
         <td width="35%" align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
-            🧑 Woohyeon Kwon | 27 | Ninnim <br>
+            👨‍💼 Woohyeon Kwon | 27 | Ninnim <br>
             🎓 Undergraduate in Hanbat University <br>
-            📊 Learning AI(LLM, ML) & Data Analysis <br>
-            📂 Contact: <br>
+            💻 Learning AI(LLM, ML) & Data Analysis <br>
+            📧 Contact: <br>
             <a href="https://blog.naver.com/mfireon">
                 <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
             </a>
