@@ -3,16 +3,13 @@
 
 Introduce <br/>
 ---
-<div align="center">
-  <div style="border-radius:15px; padding:20px; width:420px; border:1px solid #e1e4e8;">
-    <h2>🚀 Woohyeon Kwon</h2>    
-    <p>🎓 Undergraduate @ Hanbat University</p>
-    <p>📊 Learning AI & Data Analysis</p>
-    <p>🧑 Survivor Guy | 27</p>
-    <hr/>    
-    <i>"Building skills to survive in the AI era."</i>
-  </div>
-</div>
+## 👤 About Me
+
+![Name](https://img.shields.io/badge/Name-Woohyeon_Kwon-2ea44f?style=for-the-badge)
+![Age](https://img.shields.io/badge/Age-27-blue?style=for-the-badge)
+![Pronouns](https://img.shields.io/badge/Pronouns-Survivor_Guy-orange?style=for-the-badge)
+![University](https://img.shields.io/badge/Hanbat-University-red?style=for-the-badge)
+![Field](https://img.shields.io/badge/AI-Data_Analysis-purple?style=for-the-badge)
 
 Tech Stack <br/>
 ---
