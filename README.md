@@ -7,7 +7,7 @@
     <p>🧑 Woohyeon Kwon | Ninnim</p>
     <p>🎓 Undergraduate @ Hanbat University</p>
     <p>📊 Learning AI & Data Analysis</p>
-    <hr/>
+    ---
     <i>"Building skills to survive in the AI era."</i>
   </div>
 </div>
