@@ -4,7 +4,7 @@
 ---
 <div align="center">
     <table border="0" width="100%">
-        <td align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
+        <td width="30%" align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
             🧑 woohyeon Kwon | 27 | Ninnim <br>
             🎓 Undergraduate in Hanbat National University <br>
             📊 Learning AI & Data Analysis <br>
