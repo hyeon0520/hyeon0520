@@ -7,7 +7,7 @@
     <table border="0" width="100%">
     <tr>
       <td width="70%" style="vertical-align: middle;">
-          🧑 Woohyeon Kwon | Ninnim
+          🧑 Woohyeon Kwon | Ninnim </br>
           🎓 Undergraduate @ Hanbat University
           📊 Learning AI & Data Analysis
         <b>📂 You can check out my portfolios: </b></a>
