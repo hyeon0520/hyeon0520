@@ -1,8 +1,7 @@
 ## Ninnim<!--👋-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Ninnim's%20IT&fontSize=70&animation=fadeIn)
 
-👤About Me
----
+### 👤About Me
 <div>
 ┌────────────────────────────────┐
 │ 🎓 University : Hanbat Univ   │
@@ -12,8 +11,7 @@
 └────────────────────────────────┘
 </div>
 
-Tech Stack <br/>
----
+### Tech Stack
 </div>
 <h4> Language </h4>
 <div>
