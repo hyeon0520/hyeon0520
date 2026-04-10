@@ -55,9 +55,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-squarelogo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </div>
-
 <br>
-
 <h4> Skills </h4>
 <div>
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
