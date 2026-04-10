@@ -9,47 +9,6 @@ Introduce <br/>
 - I’m currently undergraduate in Hanbat University
 - I’m currently learning AI, Data Analysis
 
-Issue <br/>
----
-- <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-    <img src="https://img.shields.io/badge/EcoAI_News-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-- <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-    <img src="https://img.shields.io/badge/IssueMAKER_News-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-- <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-    <img src="https://img.shields.io/badge/시사매거진_News-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-- <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
-    <img src="https://img.shields.io/badge/로컬투데이_News-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-- <a href="https://www.newsband.kr/news/articleView.html?idxno=544690">
-    <img src="https://img.shields.io/badge/뉴스밴드_News-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-- <a href="https://www.newstnt.com/news/articleView.html?idxno=582810">
-    <img src="https://img.shields.io/badge/뉴스티앤티_News-191970?style=flat-square&logo=readme&logoColor=white"/>
-  </a>
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
--->
-
-Curriculum Vitae <br/>
----
-| Date | Spot | Details | Where |
-|-------|-------|-------|-------|
-| 2017.02~2019.02 | 교내 방송부 부부장 | 방송부 내의 부부장으로 방송 장비 관리 및 행상 주최 | Yangmok-High School |
-| 2018.02~2018.08 | 기숙사 층장 | 기숙사 내의 층장으로서 기숙사 생도 관리 및 지시 전달 | Yangmok-High School |
-| 2018.02~2019.02 | 총무부장 | 학생 임원으로 학생회 회의 기록 및 학생 예산안 작성, 관리 | Yangmok-High School |
-| 2021.03.06~2021.07.20 | 해군 청해부대 34진 갑판병 | 해군병 668기, 청해부대 34진으로 소말리아 및 이란 파병, 견시 및 함정 조종간 조종 | ROKS Munmu the Great(DDH-976) |
-| 2024.12.04~2026.03.16 | 국립한밭대학교 EcoAI 학부연구생 | Green Button Project, 세신로봇, 통신학회 2번, 전자공학회 1번, Energies(SCIE급)논문 게재 | EcoAI Lab in Hanbat National University |
-| 2025.01.16~2025.01.21 | IROC 국제로봇올림피아드 본선 진행요원 | IRO에서 주최한 세계대회에서 진행요원을 맡아, 참가자들 인솔 및 통제를 담당 | Bexco in Busan |
-| 2025.03.11~2026.03.04 | 국립한밭대학교 방송국(HNUBS) 기획부장 | 교내 행사 기획 및 교내 방송 대본 작성 | HNUBS in Hanbat National University |
-| 2025.06.30~2025.07.11 | (주)Zento 인턴 | HuggingFace AI를 이용한 이미지 및 비디오를 생성하여 클라이언트에게 서비스를 제공하는 프로젝트 진행 | (주)Zento |
-| 2025.08.10~2025.08.15 | IRO 로봇올림피아드 본선 진행요원 | IRO에서 주최한 로봇올림피아드 본선에서 진행요원을 맡아, 참가자 인솔 및 통제를 담당 | Exco in Daegu |
-
 Tech Stack <br/>
 ---
 </div>
@@ -103,6 +62,47 @@ Tech Stack <br/>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+Issue <br/>
+---
+- <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
+    <img src="https://img.shields.io/badge/EcoAI_News-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+- <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
+    <img src="https://img.shields.io/badge/IssueMAKER_News-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+- <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
+    <img src="https://img.shields.io/badge/시사매거진_News-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+- <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
+    <img src="https://img.shields.io/badge/로컬투데이_News-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+- <a href="https://www.newsband.kr/news/articleView.html?idxno=544690">
+    <img src="https://img.shields.io/badge/뉴스밴드_News-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+- <a href="https://www.newstnt.com/news/articleView.html?idxno=582810">
+    <img src="https://img.shields.io/badge/뉴스티앤티_News-191970?style=flat-square&logo=readme&logoColor=white"/>
+  </a>
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ... 
+-->
+
+Curriculum Vitae <br/>
+---
+| Date | Spot | Details | Where |
+|-------|-------|-------|-------|
+| 2017.02~2019.02 | 교내 방송부 부부장 | 방송부 내의 부부장으로 방송 장비 관리 및 행상 주최 | Yangmok-High School |
+| 2018.02~2018.08 | 기숙사 층장 | 기숙사 내의 층장으로서 기숙사 생도 관리 및 지시 전달 | Yangmok-High School |
+| 2018.02~2019.02 | 총무부장 | 학생 임원으로 학생회 회의 기록 및 학생 예산안 작성, 관리 | Yangmok-High School |
+| 2021.03.06~2021.07.20 | 해군 청해부대 34진 갑판병 | 해군병 668기, 청해부대 34진으로 소말리아 및 이란 파병, 견시 및 함정 조종간 조종 | ROKS Munmu the Great(DDH-976) |
+| 2024.12.04~2026.03.16 | 국립한밭대학교 EcoAI 학부연구생 | Green Button Project, 세신로봇, 통신학회 2번, 전자공학회 1번, Energies(SCIE급)논문 게재 | EcoAI Lab in Hanbat National University |
+| 2025.01.16~2025.01.21 | IROC 국제로봇올림피아드 본선 진행요원 | IRO에서 주최한 세계대회에서 진행요원을 맡아, 참가자들 인솔 및 통제를 담당 | Bexco in Busan |
+| 2025.03.11~2026.03.04 | 국립한밭대학교 방송국(HNUBS) 기획부장 | 교내 행사 기획 및 교내 방송 대본 작성 | HNUBS in Hanbat National University |
+| 2025.06.30~2025.07.11 | (주)Zento 인턴 | HuggingFace AI를 이용한 이미지 및 비디오를 생성하여 클라이언트에게 서비스를 제공하는 프로젝트 진행 | (주)Zento |
+| 2025.08.10~2025.08.15 | IRO 로봇올림피아드 본선 진행요원 | IRO에서 주최한 로봇올림피아드 본선에서 진행요원을 맡아, 참가자 인솔 및 통제를 담당 | Exco in Daegu |
 
 Git Stack <br/>
 ---
