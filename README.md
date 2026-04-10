@@ -2,13 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Ninnim's%20IT&fontSize=70&animation=fadeIn)
 
 ### 👤About Me
-<div
-┌────────────────────────────────┐
-│ 🎓 University : Hanbat Univ   │
-│ 📊 Field : AI / Data          │
-│ 🧑 Pronouns : Survivor Guy    │
-│ 🎂 Age : 27                   │
-└────────────────────────────────┘
+- ┌────────────────────────────────┐
+- │ 🎓 University : Hanbat Univ   │
+- │ 📊 Field : AI / Data          │
+- │ 🧑 Pronouns : Survivor Guy    │
+- │ 🎂 Age : 27                   │
+- └────────────────────────────────┘
 
 ### Tech Stack
 </div>
