@@ -84,18 +84,6 @@ Tech Stack
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=flat-square&logo=googlecolab&logoColor=F9AB00" />
 </div>
 
-<br>
-
-<h4> Contact <h4>
-<div>
-  <a href="https://blog.naver.com/mfireon">
-    <img src="https://img.shields.io/badge/Naver-1EBC8F?style=flat-square&logo=naver&logoColor=white" />
-  </a>
-  <a href="mailto:mfireon0520@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 Curriculum Vitae <br>
 ---
 | Date | Spot | Details | Where |
