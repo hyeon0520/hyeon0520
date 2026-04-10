@@ -8,9 +8,9 @@
     <tr>
       <td width="70%" style="vertical-align: middle;">
           🧑 Woohyeon Kwon | Ninnim <br>
-          🎓 Undergraduate @ Hanbat University <br>
+          🎓 Undergraduate in Hanbat University <br>
           📊 Learning AI & Data Analysis <br>
-        <b>📂 You can check out my portfolios: </b></a>
+          <b>📂 You can check out my portfolios: </b>
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
         <a href="https://sites.google.com/view/ecoai/introduction">
