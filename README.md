@@ -14,7 +14,7 @@
                 <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" height=20px/>
             </a>
             <a href="mailto:mfireon0520@gmail.com">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20px/>
             </a> <br>
             📰 Issue 📰 <br>
             <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
