@@ -7,6 +7,8 @@
     <table border="0" width="100%">
     <tr>
       <td width="70%" style="vertical-align: middle;">
+          <ul>
+              <li>I</li>
           🧑 Woohyeon Kwon | Ninnim <br>
           🎓 Undergraduate in Hanbat University <br>
           📊 Learning AI & Data Analysis <br>
@@ -27,8 +29,7 @@
               🧑 Woohyeon Kwon | Ninnim <br>
               🎓 Undergraduate @ Hanbat University <br>
               📊 Learning AI & Data Analysis <br>
-              ---
-              *"Building skills to survive in the AI era."*
+              <b>📂 Portfolios: </b>&nbsp; <a href=""> </a> <br>
           </td>
       </tr>
     </table>
