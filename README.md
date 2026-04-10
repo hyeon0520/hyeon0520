@@ -15,8 +15,7 @@
             </a>
             <a href="mailto:mfireon0520@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-            </a>
-            ━━━━━━━━━━━━━━━━━━━━
+            </a> <br>
             📰 Issue 📰 <br>
             <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
                 <img src="https://img.shields.io/badge/EcoAI_News-191970?style=flat-square&logo=readme&logoColor=white"/>
