@@ -5,11 +5,13 @@ Introduce <br/>
 ---
 ## 👤 About Me
 
-> **Name**: Woohyeon Kwon  
-> **Age**: 27  
-> **Pronouns**: Survivor Guy  
-> **University**: Hanbat University  
-> **Field**: AI · Data Analysis
+```yaml
+name: Woohyeon Kwon
+age: 27
+pronouns: Survivor Guy
+university: Hanbat University
+field: AI & Data Analysis
+
 Tech Stack <br/>
 ---
 </div>
