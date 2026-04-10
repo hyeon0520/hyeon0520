@@ -8,7 +8,7 @@
     <tr>
       <td width="70%" style="vertical-align: middle;">
         <ul>
-          <li>🧑 Woohyeon Kwon | Ninni</li>
+          <li>🧑 Woohyeon Kwon | Ninnim</li>
           <li>🎓 Undergraduate @ Hanbat University</li>
           <li>📊 Learning AI & Data Analysis</li>
         </ul>
