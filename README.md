@@ -11,6 +11,7 @@ age: 27
 pronouns: Survivor Guy
 university: Hanbat University
 field: AI & Data Analysis
+```
 
 Tech Stack <br/>
 ---
