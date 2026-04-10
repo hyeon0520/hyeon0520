@@ -10,6 +10,7 @@
           🧑 Woohyeon Kwon | Ninnim <br>
           🎓 Undergraduate in Hanbat University <br>
           📊 Learning AI & Data Analysis <br>
+          ---
           <b>📂 You can check out my portfolios: </b>
       </td>
       <td width="30%" align="center" style="vertical-align: middle;">
