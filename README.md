@@ -4,7 +4,7 @@
 ### 👤About Me
 <table>
   <tr>
-    <td align="center" style="padding:50px; border:1px solid #e1e4e8; border-radius:15px;">
+    <td align="center" style="padding:20px; border:100px solid #e1e4e8; border-radius:15px;">
       
 **🧑 Woohyeon Kwon | Ninnim**  
 🎓 Undergraduate @ Hanbat University  
