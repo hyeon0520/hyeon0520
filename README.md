@@ -1,7 +1,7 @@
 ## Ninnim<!--👋-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Ninnim's%20IT&fontSize=70&animation=fadeIn)
 
-<h3> 👤About Me <h3/> <br/>
+###👤About Me
 ---
 ┌────────────────────────────────┐
 │ 🎓 University : Hanbat Univ   │
@@ -11,6 +11,7 @@
 └────────────────────────────────┘
 
 ### Tech Stack
+---
 <h4> Language </h4>
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
