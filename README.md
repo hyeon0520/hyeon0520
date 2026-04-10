@@ -8,14 +8,13 @@
             👨‍💼 Woohyeon Kwon | 27 | Ninnim <br>
             🎓 Undergraduate in Hanbat University <br>
             💻 Learning AI(LLM, ML) & Data Analysis <br>
-            ┏
-            📧 Contact <br>
+            ┌📧 Contact <br>┐
             <a href="https://blog.naver.com/mfireon">
                 <img src="https://img.shields.io/badge/Naver-1EBC8F?style=for-the-badge&logo=naver&logoColor=white" />
             </a>
             <a href="mailto:mfireon0520@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-            </a>┘
+            </a>
         </td>
         <td>
             <div> "I have conducted research on data analysis, large language models (LLMs), and anomaly detection at the EcoAI Lab, Department of Computer Engineering, 
