@@ -6,7 +6,7 @@
     <table border="0" width="100%">
         <td width="30%" align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
             🧑 woohyeon Kwon | 27 | Ninnim <br>
-            🎓 Undergraduate in Hanbat National University <br>
+            🎓 Undergraduate in Hanbat University <br>
             📊 Learning AI & Data Analysis <br>
             <b>📂 Portfolios: </b>&nbsp; <a href=""> </a> <br>
         </td>
