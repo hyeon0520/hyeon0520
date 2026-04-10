@@ -5,7 +5,7 @@
 ┌────────────────────────────────┐
 │ 🎓 University : Hanbat Univ │
 │ 📊 Field : AI / Data │
-│ 🧑 Pronouns : Survivor Guy │
+│ 🧑 Pronouns : Survivor Guy     │
 │ 🎂 Age : 27 │
 └────────────────────────────────┘
 
