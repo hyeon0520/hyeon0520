@@ -43,7 +43,7 @@
                 performance." </div> <br>
             <div> "Please feel free to follow my journey and stay tuned for my future work." </div> <br>
             <div> "What is the Ninnim? That is my Code-Name. As for why I named myself that, there’s no particular meaning behind it. It just sounded nice, and I like
-                things that are fun. So please call me 'Ninnim.' Thank you." </div>
+                things that are fun. So please call me 'Ninnim' Thank you." </div>
     </table>
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
