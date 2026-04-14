@@ -36,6 +36,7 @@
                     <img src="https://img.shields.io/badge/뉴스티앤티-191970?style=flat-square&logo=readme&logoColor=white" >
                 </a> <br>
             📧 Contact 📧 <br>
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
             mfireon0520@gmail.com
         </td>
         <td>
