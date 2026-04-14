@@ -10,11 +10,11 @@
             💻 Learning AI(LLM, ML) & Data Analysis <br>
             ━━━━━━━━━━━━━━━━━━━━
             📝 Blog 📝 <br>
-                <a href="https://mfireon.tistory.com/">
-                    <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white" />
-                </a>
                 <a href="https://blog.naver.com/mfireon">
                     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=flat-square&logo=naver&logoColor=white" />
+                </a>
+                <a href="https://mfireon.tistory.com/">
+                    <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white" />
                 </a> <br>
             📰 News 📰 <br>
                 <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
