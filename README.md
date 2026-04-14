@@ -10,7 +10,7 @@
             💻 Learning AI(LLM, ML) & Data Analysis <br>
             ━━━━━━━━━━━━━━━━━━━━
             📧 Contact 📧 <br>
-                <a href="https://https://mfireon.tistory.com">
+                <a href="https://mfireon.tistory.com/">
                     <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white" />
                 </a>
                 <a href="https://blog.naver.com/mfireon">
