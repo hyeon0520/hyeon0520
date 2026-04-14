@@ -37,7 +37,7 @@
                 </a> <br>
             📧 Contact 📧 <br>
             <img src="https://img.icons8.com/color/48/gmail-new.png" width="13" /> mfireon0520@gmail.com <br>
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/naver.svg" width="15" style="vertical-align: middle; filter: invert(1);" /> mfireon@naver.com
+            <img src="https://img.icons8.com/?size=48&id=13963&format=png&color=000000" width="13" style="vertical-align: middle;" /> mfireon@naver.com
         </td>
         <td>
             <div> "I have conducted research on data analysis, large language models (LLMs), and anomaly detection at the EcoAI Lab, Department of Computer Engineering, 
