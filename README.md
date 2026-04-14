@@ -9,35 +9,37 @@
             🎓 Undergraduate in Hanbat University <br>
             💻 Learning AI(LLM, ML) & Data Analysis <br>
             ━━━━━━━━━━━━━━━━━━━━
-            📧 Contact 📧 <br>
+            📝 Blog 📝 <br>
                 <a href="https://mfireon.tistory.com/">
                     <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white" />
                 </a>
                 <a href="https://blog.naver.com/mfireon">
                     <img src="https://img.shields.io/badge/Naver-1EBC8F?style=flat-square&logo=naver&logoColor=white" />
                 </a>
+            📰 News 📰 <br>
+                <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
+                    <img src="https://img.shields.io/badge/로컬투데이-191970?style=flat-square&logo=readme&logoColor=white" />
+                </a>
+                <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
+                    <img src="https://img.shields.io/badge/IssueMAKER-191970?style=flat-square&logo=readme&logoColor=white" />
+                </a>
+                <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
+                    <img src="https://img.shields.io/badge/시사매거진-191970?style=flat-square&logo=readme&logoColor=white" />
+                </a>
+                <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
+                    <img src="https://img.shields.io/badge/로컬투데이-191970?style=flat-square&logo=readme&logoColor=white" />
+                </a>
+                <a href="https://www.newsband.kr/news/articleView.html?idxno=544690">
+                    <img src="https://img.shields.io/badge/뉴스밴드-191970?style=flat-square&logo=readme&logoColor=white" />
+                </a>
+                <a href="https://www.newstnt.com/news/articleView.html?idxno=582810">
+                    <img src="https://img.shields.io/badge/뉴스티앤티-191970?style=flat-square&logo=readme&logoColor=white" >
+                </a> <br>
+            📧 Contact 📧
                 <a href="mailto:mfireon0520@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
                 </a> <br>
-            📰 News 📰 <br>
-            <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=328094">
-                <img src="https://img.shields.io/badge/로컬투데이-191970?style=flat-square&logo=readme&logoColor=white" />
-            </a>
-            <a href="https://www.issuemaker.kr/news/articleView.html?idxno=50680">
-                <img src="https://img.shields.io/badge/IssueMAKER-191970?style=flat-square&logo=readme&logoColor=white" />
-            </a>
-            <a href="https://www.sisamagazine.co.kr/news/articleView.html?idxno=511028">
-                <img src="https://img.shields.io/badge/시사매거진-191970?style=flat-square&logo=readme&logoColor=white" />
-            </a>
-            <a href="https://www.localtoday.co.kr/news/articleView.html?idxno=403858">
-                <img src="https://img.shields.io/badge/로컬투데이-191970?style=flat-square&logo=readme&logoColor=white" />
-            </a>
-            <a href="https://www.newsband.kr/news/articleView.html?idxno=544690">
-                <img src="https://img.shields.io/badge/뉴스밴드-191970?style=flat-square&logo=readme&logoColor=white" />
-            </a>
-            <a href="https://www.newstnt.com/news/articleView.html?idxno=582810">
-                <img src="https://img.shields.io/badge/뉴스티앤티-191970?style=flat-square&logo=readme&logoColor=white" >
-            </a>
+            📧 mfireon0520@gmail.com
         </td>
         <td>
             <div> "I have conducted research on data analysis, large language models (LLMs), and anomaly detection at the EcoAI Lab, Department of Computer Engineering, 
