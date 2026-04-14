@@ -36,7 +36,8 @@
                     <img src="https://img.shields.io/badge/뉴스티앤티-191970?style=flat-square&logo=readme&logoColor=white" >
                 </a> <br>
             📧 Contact 📧 <br>
-            <img src="https://img.icons8.com/color/48/gmail-new.png" width="12" /> mfireon0520@gmail.com
+            <br>
+            <img src="https://img.icons8.com/color/48/gmail-new.png" width="13" /> mfireon0520@gmail.com
         </td>
         <td>
             <div> "I have conducted research on data analysis, large language models (LLMs), and anomaly detection at the EcoAI Lab, Department of Computer Engineering, 
