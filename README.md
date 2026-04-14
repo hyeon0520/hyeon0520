@@ -42,7 +42,7 @@
             <div> "My goal is to become a data scientist who contributes to power consumption analysis, sustainable industrial development, and improving object detection 
                 performance." </div> <br>
             <div> "Please feel free to follow my journey and stay tuned for my future work." </div> <br>
-            <div> "What is the NEO_H? That is my Code-Name. NEO stands for the future, and H is derived from the first letter of my last name. This carries the meaning of
+            <div> "What is NEO_H? That is my Code-Name. NEO stands for the future, and H is derived from the first letter of my last name. This carries the meaning of
                 my determination to move forward on my own. So please call me 'NEO_H(niː.oʊ)' Thank you." </div>
     </table>
 </div>
