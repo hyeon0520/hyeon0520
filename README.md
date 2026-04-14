@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=Hyeon's%20IT&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=250&section=header&text=NEO_H&fontSize=70&animation=fadeIn)
 
 👤About Me
 ---
 <div align="center">
     <table border="0" width="100%">
         <td width="35%" align="center" style="padding:20px; border:1px solid #e1e4e8; border-radius:15px;">
-            👨‍💼 Woohyeon Kwon | 27 | Ninnim <br>
+            👨‍💼 Woohyeon Kwon | 27 | NEO_H <br>
             🎓 Undergraduate in Hanbat University <br>
             💻 Learning AI(LLM, ML) & Data Analysis <br>
             ━━━━━━━━━━━━━━━━━━━━
@@ -42,8 +42,8 @@
             <div> "My goal is to become a data scientist who contributes to power consumption analysis, sustainable industrial development, and improving object detection 
                 performance." </div> <br>
             <div> "Please feel free to follow my journey and stay tuned for my future work." </div> <br>
-            <div> "What is the Ninnim? That is my Code-Name. As for why I named myself that, there’s no particular meaning behind it. It just sounded nice, and I like
-                things that are fun. So please call me 'Ninnim' Thank you." </div>
+            <div> "What is the NEO_H? That is my Code-Name. NEO stands for the future, and H is derived from the first letter of my last name. This carries the meaning of
+                my determination to move forward on my own. So please call me 'NEO_H(niː.oʊ)' Thank you." </div>
     </table>
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
