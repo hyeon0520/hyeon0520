@@ -130,6 +130,5 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 <a href="https://github.com/hyeon0520/Portfolio/tree/main/Certification">
     <img src="https://img.shields.io/badge/Data_Certifications-3776AB?style=flat-square&logo=databricks&logoColor=white" />
 </a>
-Click
 <br>
 - 데이터 분석 준전문가(ADsP)
